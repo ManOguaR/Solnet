@@ -1,3 +1,7 @@
+**NOTICE: THIS IS A CUSTOM VERSION OF SOLNET**
+
+Solnet has undescribed security flaws, like the exposure of private keys in public variables alongside a long-living heap object, easily exploitable by any malicious actor. This version of Solnet has been modified to remove these flaws, and is maintained by ManOguaR as part of The Corporate Wars Project.
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/bmresearch/Solnet/master/assets/icon.png" margin="auto" height="175"/>
 </p>
